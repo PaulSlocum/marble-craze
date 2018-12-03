@@ -15,9 +15,10 @@ Cartridges are available from [Atariage](https://atariage.com/software_page.php?
 
 ### Building From Source
 
-I use the DASM assembler to build the game, and there is also a C program included in the project that helps assemble the level data from text files.  More info coming soon...
+I've always used the DASM assembler to build the game, and there is also a C program included in the project that helps assemble the level data from text files.  More info on assembly coming soon...
+
 
 ## License
 
-©2002-2018 Paul Slocum, All rights reserved.  Provided for personal use only.  I will likely eventually switch to an MIT license but I've had too many problems with people selling poor quality cartridges on ebay.
+©2002-2018 Paul Slocum, All rights reserved.  Source, binary, and other files provided for personal use only.  I will likely eventually switch to an MIT license but I've had too many problems with people selling poor quality cartridges on ebay.
 
