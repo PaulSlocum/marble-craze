@@ -17,5 +17,5 @@ I use the DASM assembler to build the game, and there is also a C program includ
 
 ## License
 
-©2002-2018 Paul Slocum, All rights reserved.  Source, binary, and other files provided for personal use only.  I will likely eventually switch to an MIT license but I've had too many problems with people selling poor quality cartridges on ebay.
+©2002-2018 Paul Slocum, All rights reserved.  Source, binary, and other files provided for personal use only.  Will likely eventually switch to an MIT license but I've had too many problems with people selling poor quality cartridges on ebay.
 
