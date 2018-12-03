@@ -2,7 +2,7 @@
 
 A game for the 1977 Atari 2600 console inspired by Marble Madness and Labyrinth, the wooden marble maze puzzle. 
 Includes simultaneous two player mode, 18 levels, background music, hidden areas.  The game is written in 
-6507 assembly language and is notable for its innovative music driver and use of dual-paddle controllers for each player.  
+6507 assembly and is notable for its innovative music driver and use of dual-paddle controllers for each player.  
 Note that reading analog paddle controllers on the Atari 2600 takes away from significant CPU time from graphics processing, 
 making the game's display kernel design especially challenging.
 
