@@ -1,0 +1,44 @@
+Run #1
+
+	99 easy
+1 99	89 atari
+2 188	67 keys
+3 255	164 blue maze
+4 419	193 no walls
+5 612	332 get gems (reduce time)x
+6 944	153 ramps1
+7 1097	110 grand prix (more time)x
+8 1207	233 mini golf
+9 1440	256 earthworld
+a 1696	189 video pinball (add points)x
+b 1885	311 xype
+c 2196	440 fireworld	(too much time at end)x
+d 2636 	47  haunted house (need more time and points)x
+e 2683 	291 major ramps
+f 2974	344 waterworld
+g 3318  192 airworld (a little more time)
+h 3510 		
+i ?
+
+(Adjustments made)
+Run #2
+
+1 142 	142	EASY
+2 218	76 ATAR
+3 330	112 KEYS
+4 484	154 BLUE MAZE
+
+5 202	202 NO WALLS
+6 534	332 GET GEMS
+7 711	177 RAMP1
+8 880	169	GRANDPRIX
+9 1140	260 MINIGOLF
+a 1356	216 EARTHWORLD
+b 1578	222	VIDEO PINBALL
+c 1870	292 XYPE
+d 2238	368 FIREWORLD
+e 2430  192 HAUNTED HOUSE
+f 
+g 3097
+h 
+i 

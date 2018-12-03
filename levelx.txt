@@ -1,0 +1,135 @@
+LEVEL:
+X
+BACKGROUND COLOR:
+$00
+PLAYFIELD COLOR:
+$C8
+FINISH COLOR:
+$88
+TIME:
+$55
+SCREEN:
+XXXXXXXXX--XXXXXXXXX
+--------------------
+--------------------
+--------------------
+XXXXXXX------XXXXXXX
+--------------------
+--------------------
+--------------------
+XXXXXXX------XXXXXXX
+--------------------
+--------------------
+--------------------
+X
+X
+X
+X
+RESET POS:
+70
+90
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+0
+0
+0
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+--------------------
+XXXXXXXXX--XXXXXXXXX
+--------------------
+--------------------
+--------------------
+XXXXXXX------XXXXXXX
+--------------------
+--------------------
+--------------------
+XXXXXXX------XXXXXXX
+--------------------
+--------------------
+X
+X
+X
+X
+RESET POS:
+70
+90
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+0
+0
+0
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+--------------------
+--------------------
+XXXXXXXX----XXXXXXXX
+--------------------
+--------------------
+--------------------
+XXXXXX--------XXXXXX
+--------------------
+--------------------
+--------------------
+XXXXXXXX----XXXXXXXX
+--------------------
+X
+X
+X
+X
+RESET POS:
+70
+90
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+0
+0
+0
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+--------------------
+--------------------
+--------------------
+XXXXXXXX----XXXXXXXX
+--------------------
+--------------------
+--------------------
+XXXXXX--------XXXXXX
+--------------------
+--------------------
+--------------------
+XXXXXXXXX--XXXXXXXXX
+X
+X
+X
+X
+RESET POS:
+70
+90
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+0
+0
+0
+ALTERNATE SCREEN:
+0
+NOCOLORS
+ENDLEVEL

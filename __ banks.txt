@@ -1,0 +1,5 @@
+
+
+927 in bank 6 = 25 screens
+1068 in bank 7 = 28 screens
+1000 in bank 8 = 26 screens

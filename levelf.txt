@@ -1,0 +1,513 @@
+LEVEL:
+F
+BACKGROUND COLOR:
+$30
+PLAYFIELD COLOR:
+$F8
+FINISH COLOR:
+$46
+TIME:
+$75
+SCREEN:
+--------------------
+--------------------
+-XXXXXXX-----XXXXXXX
+--XXXXXXXXXXXXXXXXXX
+-----XXXXXXXXXXXX---
+------XXXXXXXX------
+--------------------
+---------XX---------
+---------XXXX-------
+----XXXXXXXXXXX-----
+---------XXXX-------
+---------XX---------
+X
+X
+X
+1
+RESET POS:
+35
+37
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+30
+10
+1
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+--------------------
+-----XXXXXXXXX------
+XXXXXXXXXXXXXXX-----
+XXXXXXXX--XXXXXX----
+-XXXXX------XXXXXXX-
+-XXXX--------XXXXXX- 
+-XXXXX-----XXXXXXXX-
+--XXXXXX--XXXXX-----
+----XXXXXXXXX-------
+----XXXXXXXX--------
+------XXXX----------
+--------------------
+X
+X
+0
+2
+RESET POS:
+75
+22
+POWER UP TYPE:
+HPWR20PTS
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+48
+3
+16
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+--------------------
+--------------------
+----XXXX------------
+-XXXXXXXXX----------
+XXXXXXXXXXXXXXXXXXX-
+XXXXX--XXXXXXXXXXXX-
+XXXX------XXXXX-----
+-XXXX------XXXX-----
+-XXXXXX----XXXXXX---
+---XXXXXXXXXXXXXXX--
+-----XXXXXXXXXXXXX--
+--------XXXXXXXXXX--
+X
+8
+1
+3
+RESET POS:
+75
+59
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+48
+5
+1
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+--------------------
+--------------------
+----------XXXX------
+---XXX--XXXXXX------
+XXXXXXXXXXXXXXXX----
+XXXXXXXXXXXXXXXX----
+-----XXXX----XXXXX--
+-----XXXX-----XXXX--
+------XXXX-----XXX--
+-------XXXX----XXX--
+--------XXXX---XXX--
+---------XXXX--XXX--
+X
+7
+2
+X
+RESET POS:
+75
+48
+POWER UP TYPE:
+HPWR50PTS
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+52
+8
+2
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+--------------------
+---------XXX--------
+--------XXXXX-------
+-------XXXXXXX------
+------XXXXXXXXXXXXX-
+-----XXXXX--XXXXXXX-
+----XXXXX---XXXXXXX-
+----XXXX------------
+----XXXX------------
+----XXXX------------
+----XXXX------------
+----XXXX------------
+X
+5
+X
+6
+RESET POS:
+50
+97
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+44
+5
+1
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+----XXXX------------
+----XXXX------------
+----XXXXXXXXXXXX----
+----XXXXXXXXXXXX----
+----XXXXXXXXXXXX----
+------------XXXX----
+---XX------XXXXXX---
+---XXXX----XXXXXX---
+XXXXXXXXX--XXXXXX---
+---XXXX----XXXXXX---
+---XX------XXXXXX---
+--------------------
+4
+X
+X
+X
+RESET POS:
+36
+35
+POWER UP TYPE:
+HPWR100PTS
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+52
+9
+4
+ALTERNATE SCREEN:
+0
+COLORS
+$46
+$46
+$46
+X
+X
+X
+SCREEN:
+--------XXXXXXXXXX--
+--------XXXXXXXXXX--
+--------XXXXXXXXXX--
+----------XXXXXXX---
+XXXXXX------XXXXX---
+XXXXXXXX----XXXXXX--
+XXXXXXXXX----XXXXXX-
+----XXXXXX----XXXXX-
+-----XXXXXX----XXXX-
+------XXXXXX-------- 
+-------XXXXX-------- 
+--------XXXX--------
+2
+A
+4
+7
+RESET POS:
+45
+87
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+48
+5
+1
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+----X----XXXX--XXX--
+----X----XXXX--XXX--
+--XXXXX--XXXX--XXX--
+---XXX---XXX---XXX--
+----X----XXX---XXX--
+-------XXXXXXXXXXX--
+XXXXXXXXXXXXXXXXXX--
+XXXXXXXXXXXXXXXXXX--
+XXXXXXX-------XXXX--
+--XXXXXX-------XXX--
+---XXXXXX------XXX--
+------XXX------XXX--
+3
+B
+8
+X
+RESET POS:
+75
+84
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+50
+5
+1
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+--------XXXXXXXXXX--
+--------XXXXXXXXXX--
+--------XXXXXXXXXX--
+----------XXXXXXX---
+XXXXXX------XXXXX---
+XXXXXXXX----XXXXXX--
+XXXXXXXXX----XXXXXX-
+----XXXXXX----XXXXX-
+-----XXXXXX----XXXX-
+------XXXXXX-------- 
+-------XXXXX-------- 
+--------XXXX--------
+2
+A
+5
+7
+RESET POS:
+110
+40
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+48
+5
+1
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+--------------------
+-XXXXXXXXXX---------
+-XXXXXXXXXX---------
+-XXXXXXXXXX---------
+-XXXXXXXXXX---------
+-XXXX--XXXX---------
+-XXXX--XXXX-XXXXX---
+-XXXX--XXXX-XXXXXX--
+-XXXX--XXXX-XXXXXXX-
+-XXXX--XXXX-XXXXXXX-
+-XXXX--XXXX-XXXXXXX-
+-XXXX--XXXX-XXXX----
+X
+D
+X
+A
+RESET POS:
+75
+97
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+48
+5
+1
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+--------XXXX--------
+--XXX---XXXX--------
+-X---X--XXXXX-------
+----X---XXXXX-------
+---X-----XXXX-------
+---------XXXX-------
+---X-----XXXXXXXXXX-
+--------XXXXXXXXXXX-
+XXXXXXXXXXXX--------
+XXXXXXXXXXXX--------
+XXXXXXXXXXX---------
+--------------------
+6
+E
+9
+C
+RESET POS:
+75
+97
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+48
+5
+1
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+------XXX------XXX--
+------XXXX----XXXX--
+------XXXXX--XXXXX--
+-----XXXXXXXXXXXXX--
+----XXXXXXXXXXXXXX--
+-----XXX-------XX---
+----XXXX-XX-XX-XX---
+----XXXX-------XXX--
+-----XXX--X---X-XX--
+------XXX--XXXX-XX--
+-------XXX-----XXX--
+--------XXXXXXXXX---
+7
+F
+A
+X
+RESET POS:
+75
+47
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+48
+5
+1
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+----XXXXX-----------
+----XXXXX-----------
+----XXXXX-----------
+----XXXXX-----------
+----XXXXX-----XX----
+----XXXXX---XXXX----
+XXXXXXXXX-XXXXXXXXX-
+XXXXXXXXX---XXXX----
+----XXXXX-----XX----
+----XXXXX-----------
+----XXXXX-----------
+----XXXXX-----------
+C
+C
+A
+X
+RESET POS:
+35
+87
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+48
+5
+1
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+-XXXX--XXXX-XXXX----
+-XXXX--XXXX-XXXX----
+-XXX---XXXX-XXXX----
+-XXXX--XXXXXXXXX----
+-XXXX--XXXXXXXXX----
+--XXX---XXXXXX------
+-XXXX---XXXXXX-XXXX-
+-XXXX----XXXX--XXXX-
+-XXXX---------XXXX--
+-XXXXXXXXXXXXXXXXX--
+-XXXXXXXXXXXXXXXXX--
+--------------------
+9
+X
+X
+E
+RESET POS:
+75
+123
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+48
+5
+1
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+--------------------
+--------------XXXXX-
+-----------XXXXXXXX-
+---------XXXXXXXX---
+------XXXXXXXX------
+--XXXXXXXXX----XXXX-
+XXXXXXXXXXX---XXXXX-
+XXXXXXXXXXX---XXXXX-
+--------XXXX-XXXXXX-
+--------XXXXXXXXXXX-
+---------XXXXXXXXXX-
+--------------------
+A
+X
+D
+F
+RESET POS:
+73
+87
+POWER UP TYPE:
+HPWR50PTS
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+65
+4
+8
+ALTERNATE SCREEN:
+0
+NOCOLORS
+SCREEN:
+--------XXXXXXXXX---
+XXXXXXXXXXXXXXXXX---
+XXXXXXXXXXXXXXXXXX--
+---XXXXXXXXX--XXXX--
+--XXXXXXXXX----XXX--
+XXXXX---XXX----XXX--
+XXXX----XXX---XXXX--
+XXX---XXXX--XXXXX---
+XXX--XXXXXXXXXX-----
+XXXXXXXXXXXXX-------
+XXXXXXXXXXX---------
+--------------------
+B
+X
+E
+X
+RESET POS:
+45
+32
+POWER UP TYPE:
+0
+ALTERNATE SCREEN MASK:
+255
+POWERUP:
+48
+5
+1
+ALTERNATE SCREEN:
+0
+NOCOLORS
+ENDLEVEL

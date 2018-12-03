@@ -1,0 +1,5 @@
+1 National 26C256Q     Boots, game messed up
+1 Fairchild 27C256H    Won't boot
+4 AMD AM27C256 Game    Boots, game won't start, some won't boot
+1 Square S logo 27C256 Seems playable but has weird white line under marble
+
