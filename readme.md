@@ -12,7 +12,7 @@ Cartridges are available from [Atariage](https://atariage.com/software_page.php?
 
 ### Building From Source
 
-I use the [DASM assembler](http://dasm-dillon.sourceforge.net/) (old DOS/Win version included) to build the game, and there is also a C program included in the project that helps assemble the level data from text files.  More info on assembly coming soon...
+I use the [DASM assembler](http://dasm-dillon.sourceforge.net/) (old DOS/Win version is included) to build the game, and there is also a C program included in the project that helps assemble the level data from text files.  More info on assembly coming soon...
 
 
 ## License
