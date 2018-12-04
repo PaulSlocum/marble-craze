@@ -10,7 +10,7 @@ A game for the Atari 2600 console inspired by Atari's Marble Madness and Labyrin
 Cartridges are available from [Atariage](https://atariage.com/software_page.php?SoftwareID=3699) and the ROM (marblecr.bin) can be played on the Stella emulator or on real Atari 2600 hardware using a Harmony Cart or similar.  It is recommended to play the game with two real Atari paddle controllers since the game is very difficult with any other controller.
 
 
-### Building From Source
+## Building From Source
 
 I use the [DASM assembler](http://dasm-dillon.sourceforge.net/) (old DOS/Win version is included) to build the game, and there is also a C program included in the project that helps assemble the level data from text files.  More info on assembly coming soon...
 
