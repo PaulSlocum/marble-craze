@@ -1,12 +1,13 @@
 ;---------------------------------------------------------------------------
-; Marble Craze by Paul Slocum
+; Marble Craze for the Atari 2600
+; by Paul Slocum
 ; 2002-2018
 ;---------------------------------------------------------------------------
 
 ;------------------------------------------------------------
 ; Marble Craze is a 32K game divided in into eight 4K banks
 ; since the Atari can only address 4K.  This file contains
-; the first bank and the following banks are included near the 
+; the first bank and the other banks are included near the 
 ; end of this file.
 ;------------------------------------------------------------
 
