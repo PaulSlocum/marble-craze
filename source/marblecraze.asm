@@ -1,6 +1,6 @@
 ;---------------------------------------------------------------------------
 ; Marble Craze by Paul Slocum
-; 7-26-02
+; 2002-2018
 ;---------------------------------------------------------------------------
 
 ;------------------------------
@@ -12,19 +12,6 @@
 ; - Variable Initialization
 ; - Game Loop Logic
 ;------------------------------
-
-	; Level Ideas:
-	;
-	; Cube level
-	; Easier jump level
-	; 1234 puzzle level
-	; Big open level
-	;
-	; Combat
-	; Dungeon
-	; Grand Prix 2
-	; Tightrope
-	; Warps?
 
 
 	processor 6502	
@@ -46,6 +33,20 @@
 	; Vertical paddle center?
 	;
 	;------------------------------------
+
+	;-------------------- LEVEL IDEAS
+	;
+	; Cube level
+	; Easier jump level
+	; 1234 puzzle level
+	; Big open level
+	;
+	; Combat
+	; Dungeon
+	; Grand Prix 2
+	; Tightrope
+	; Warps?
+	;-------------------------------------
 
 
 
@@ -2108,11 +2109,11 @@ callIntroMessage
 ; Include Source for banks 2-8
 ;
 ;==========================================================================
-	include marbank2.asm
-	include marbank3.asm
-	include marbank4.asm
+	include mcbank2.asm
+	include mcbank3.asm
+	include mcbank4.asm
 
-	include marbank5.asm
-	include marbank6.asm
-	include marbank7.asm
-	include marbank8.asm
+	include mcbank5.asm
+	include mcbank6.asm
+	include mcbank7.asm
+	include mcbank8.asm

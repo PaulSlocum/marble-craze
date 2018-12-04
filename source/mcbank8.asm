@@ -112,7 +112,7 @@ rightLoop2C
 	jmp rtnScreenLoader3
 
 
-	include marsong2.asm
+	include mcsong2.asm
 
 
 accArray
@@ -323,10 +323,10 @@ endVel
 	jmp rtnCalcMovement
 
 
-	include marsongb.asm
+	include mcsongb.asm
 
 
-	include L6_SCR.ASM	; grand prix - optimized
+	include levels/L6_SCR.ASM	; grand prix - optimized
 
 
 ;==========================================================================

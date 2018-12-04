@@ -1811,21 +1811,21 @@ level2
 	word lev29, col29, cont29
 
 
-	include L3_PTR.ASM
-	include L5_PTR.ASM
-	include L6_PTR.ASM
-	include L7_PTR.ASM
-	include L8_PTR.ASM
-	include L9_PTR.ASM
-	include LA_PTR.ASM
-	include LB_PTR.ASM
-	include LC_PTR.ASM
-	include LD_PTR.ASM
-	include LE_PTR.ASM
-	include LF_PTR.ASM
-	include LG_PTR.ASM
-	include LI_PTR.ASM
-	include LJ_PTR.ASM
+	include levels/L3_PTR.ASM
+	include levels/L5_PTR.ASM
+	include levels/L6_PTR.ASM
+	include levels/L7_PTR.ASM
+	include levels/L8_PTR.ASM
+	include levels/L9_PTR.ASM
+	include levels/LA_PTR.ASM
+	include levels/LB_PTR.ASM
+	include levels/LC_PTR.ASM
+	include levels/LD_PTR.ASM
+	include levels/LE_PTR.ASM
+	include levels/LF_PTR.ASM
+	include levels/LG_PTR.ASM
+	include levels/LI_PTR.ASM
+	include levels/LJ_PTR.ASM
 
 ; level 1 -- earthworld (gray platform)
 ; level 2 -- get the keys
@@ -1862,13 +1862,13 @@ levels
 
 
 
-	include titlesng.asm
+	include mcsong0.asm
 
 
 
 
 	; Output from level generator
-	include L_PTR.ASM
+	include levels/L_PTR.ASM
 
 
 

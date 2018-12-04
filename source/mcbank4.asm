@@ -11,7 +11,7 @@
 	rorg $1000
 
 
-	include mardigit.asm
+	include mcdigit.asm
 
 
 pfDigitRef1
@@ -1508,7 +1508,7 @@ endShape
 
 
 
-	include marsong.asm
+	include mcsong.asm
 
 
 

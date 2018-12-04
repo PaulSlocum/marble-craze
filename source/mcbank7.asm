@@ -10,7 +10,7 @@
 	rorg $1000
 
 	; inactive player animation
-	include LX_SCR.ASM
+	include levels/LX_SCR.ASM
 
 
 ;==========================================================================
@@ -516,14 +516,14 @@ col17
 
 
 
-	include L7_SCR.ASM	; waterworld - moderately optimized
-	include LB_SCR.ASM	; airworld - moderately optimized
-	include LC_SCR.ASM	; xype - optimized
-	include LD_SCR.ASM	; major ramps - moderately optimized
-	include L9_SCR.ASM  ; pinball - moderate optimization
-	include LF_SCR.ASM	; big red
-	include LI_SCR.ASM	; haunted house
-	include LJ_SCR.ASM	; rainbow road
+	include levels/L7_SCR.ASM	; waterworld - moderately optimized
+	include levels/LB_SCR.ASM	; airworld - moderately optimized
+	include levels/LC_SCR.ASM	; xype - optimized
+	include levels/LD_SCR.ASM	; major ramps - moderately optimized
+	include levels/L9_SCR.ASM  ; pinball - moderate optimization
+	include levels/LF_SCR.ASM	; big red
+	include levels/LI_SCR.ASM	; haunted house
+	include levels/LJ_SCR.ASM	; rainbow road
 
 
 ;==========================================================================

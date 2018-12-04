@@ -194,7 +194,7 @@ patternArrayB
 	word beat8b, mel1c			; 40 42
 	word beat3c, beat3c			; 44 46
 	
-	include marsong3.asm
+	include mcsong3.asm
 
 
 	

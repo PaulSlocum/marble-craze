@@ -2051,23 +2051,23 @@ cont20
 	byte 1		; powerup mask
 
 
-	include L_CONT.ASM
+	include levels/L_CONT.ASM
 
-	include L3_CONT.ASM
-	include L5_CONT.ASM
-	include L6_CONT.ASM
-	include L7_CONT.ASM
-	include L8_CONT.ASM
-	include L9_CONT.ASM
-	include LA_CONT.ASM
-	include LB_CONT.ASM
-	include LC_CONT.ASM
-	include LD_CONT.ASM
-	include LE_CONT.ASM
-	include LF_CONT.ASM
-	include LG_CONT.ASM
-	include LI_CONT.ASM
-	include LJ_CONT.ASM
+	include levels/L3_CONT.ASM
+	include levels/L5_CONT.ASM
+	include levels/L6_CONT.ASM
+	include levels/L7_CONT.ASM
+	include levels/L8_CONT.ASM
+	include levels/L9_CONT.ASM
+	include levels/LA_CONT.ASM
+	include levels/LB_CONT.ASM
+	include levels/LC_CONT.ASM
+	include levels/LD_CONT.ASM
+	include levels/LE_CONT.ASM
+	include levels/LF_CONT.ASM
+	include levels/LG_CONT.ASM
+	include levels/LI_CONT.ASM
+	include levels/LJ_CONT.ASM
 
 
 ;==========================================================================

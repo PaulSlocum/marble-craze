@@ -1361,14 +1361,14 @@ col4B
 
 
 	; include level editor output
-	include L_SCR.ASM
+	include levels/L_SCR.ASM
 
-	include L5_SCR.ASM	; easy does it - could not optimize
-	include L3_SCR.ASM	; atariage - could not optimize
-	include L8_SCR.ASM	; no walls - minimal optimization
-	include LE_SCR.ASM  ; minor ramps - optimized
-	include LG_SCR.ASM	; get the gems
-	include LA_SCR.ASM	; golf - optimized
+	include levels/L5_SCR.ASM	; easy does it - could not optimize
+	include levels/L3_SCR.ASM	; atariage - could not optimize
+	include levels/L8_SCR.ASM	; no walls - minimal optimization
+	include levels/LE_SCR.ASM  ; minor ramps - optimized
+	include levels/LG_SCR.ASM	; get the gems
+	include levels/LA_SCR.ASM	; golf - optimized
 
 
 ;==========================================================================
