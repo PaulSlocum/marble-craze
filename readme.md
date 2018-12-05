@@ -6,7 +6,7 @@ The game is written in 6507 assembly and is notable for its innovative music dri
 
 [![Marble Craze gameplay](images/mcTitlePlaybutton.png)](https://www.youtube.com/watch?v=rY5MWv_S3AM)
 
-![Mable Craze screenshot](images/mcScreenshot2_sm.png) ![Mable Craze screenshot](images/mcScreenshot4_sm.png)
+![Mable Craze screenshot](images/mcScreenshot2_tiny.png) ![Mable Craze screenshot](images/mcScreenshot4_tiny.png)
 
 
 ## Playing The Game
