@@ -4,7 +4,11 @@ A game for the Atari 2600 console inspired by Atari's Marble Madness and Labyrin
 
 The game is written in 6507 assembly and is notable for its innovative music driver and use of dual-paddle controllers for each player. Reading analog paddle controllers on the Atari 2600 takes away significant CPU time from graphics processing which made the game's display kernel design especially challenging.  Like many Atari 2600 cartridges, Marble Craze uses bankswitching to overcome the Atari 2600's limitation of only being able to address 4K on the cartridge port.
 
-[![Marble Craze gameplay](images/mcTitlePlaybutton.png)](https://www.youtube.com/watch?v=rY5MWv_S3AM)
+[Marble Craze gameplay video:](http://www.youtube.com/watch?v=rY5MWv_S3AM)
+
+[![Marble Craze gameplay](images/mcTitlePlaybutton.png)](http://www.youtube.com/watch?v=rY5MWv_S3AM)
+
+__Screenshots:__
 
 ![Mable Craze screenshot](images/mcScreenshot2_tiny.png) ![Mable Craze screenshot](images/mcScreenshot4_tiny.png)
 
@@ -15,7 +19,7 @@ Cartridges are available from [Atariage](https://atariage.com/software_page.php?
 
 ## Instruction Manual
 
-The manual is available here: [page 1](manual/mcman1.jpg) [page 2](manual/mcman2.jpg) [page 3](manual/mcman3.jpg) [page 4](manual/mcman4.jpg) 
+The manual pages are available here: [page_1](manual/mcman1.jpg) [page_2](manual/mcman2.jpg) [page_3](manual/mcman3.jpg) [page_4](manual/mcman4.jpg) 
 
 ## Building From Source
 
